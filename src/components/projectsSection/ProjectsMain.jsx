@@ -9,14 +9,14 @@ const projects = [
     name: "Troy Course Lab",
     year: "Founder & Project Executive • 2025",
     align: "right",
-    image: "public/images/web-1.png",
+    image: "/images/web-1.png",
     link: "#",
   },
   {
     name: "Troy Tracker",
     year: "Founder & Project Executive • 2025",
     align: "left",
-    image: "public/images/web-2.png",
+    image: "/images/web-2.png",
     link: "#",
   },
 ];
